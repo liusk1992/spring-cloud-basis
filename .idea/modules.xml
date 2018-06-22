@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-basis-dependencies/cloud-basis-dependencies.iml" filepath="$PROJECT_DIR$/cloud-basis-dependencies/cloud-basis-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry-center/registry-center.iml" filepath="$PROJECT_DIR$/registry-center/registry-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-basis.iml" filepath="$PROJECT_DIR$/spring-cloud-basis.iml" />
+    </modules>
+  </component>
+</project>
